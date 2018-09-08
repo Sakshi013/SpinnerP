@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">spinner practice</string>
+    <string name="phone">phone</string>
+    <string name="usa">USA</string>
+    <string name="submit_n_save">SUBMIT N SAVE</string>
+    <string name="california">California</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="enter_phone_android_string_emptyphonenumber">enter phone @android:string/emptyPhoneNumber</string>
+    <string name="submit_and_save">submit and save</string>
+</resources>
